@@ -18,82 +18,82 @@ msgstr ""
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_project_task__task_checklist
 msgid "Check List"
-msgstr ""
+msgstr "Check List"
 
 #. module: task_check_list
 #: model_terms:ir.ui.view,arch_db:task_check_list.view_task_form2_inherit_form_view
 msgid "Checklist"
-msgstr ""
+msgstr "Checklist"
 
 #. module: task_check_list
 #: model:ir.model,name:task_check_list.model_task_checklist
 msgid "Checklist for the task"
-msgstr ""
+msgstr "Checklist for the task"
 
 #. module: task_check_list
 #: model_terms:ir.actions.act_window,help:task_check_list.action_task_checklist
 msgid "Click to create New Checklist"
-msgstr ""
+msgstr "Bấm để tạo mới Checklist"
 
 #. module: task_check_list
 #: model_terms:ir.ui.view,arch_db:task_check_list.view_task_form2_inherit_form_view
 msgid "Completed"
-msgstr ""
+msgstr "Đã hoàn thành"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__create_uid
-msgid "Created by"
-msgstr ""
+msgid "Created on"
+msgstr "Được tạo bởi"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Thời điểm tạo"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__description
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Tên hiển thị"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Sửa lần cuối"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Cập nhật lần cuối bởi"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Cập nhật lần cuối"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_project_task__max_rate
 msgid "Maximum rate"
-msgstr ""
+msgstr "Rate tối đa"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_task_checklist__name
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #. module: task_check_list
 #: model:ir.model.fields,field_description:task_check_list.field_project_task__checklist_progress
 msgid "Progress"
-msgstr ""
+msgstr "Tiến trình"
 
 #. module: task_check_list
 #: model:ir.model,name:task_check_list.model_project_task
@@ -104,4 +104,4 @@ msgstr "Nhiệm vụ"
 #: model:ir.actions.act_window,name:task_check_list.action_task_checklist
 #: model:ir.ui.menu,name:task_check_list.task_check_list_menu
 msgid "Task Checklist"
-msgstr ""
+msgstr "Task Checklist"

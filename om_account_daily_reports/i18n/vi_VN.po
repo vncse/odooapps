@@ -139,7 +139,7 @@ msgstr "Được tạo bởi"
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__create_date
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Thời điểm tạo"
 
 #. module: om_account_daily_reports
 #: model_terms:ir.ui.view,arch_db:om_account_daily_reports.report_bankbook
@@ -229,7 +229,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__id
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: om_account_daily_reports
 #: model:ir.model.fields,help:om_account_daily_reports.field_account_bankbook_report__initial_balance
@@ -276,21 +276,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report____last_update
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Sửa lần cuối"
 
 #. module: om_account_daily_reports
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_bankbook_report__write_uid
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__write_uid
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Cập nhật lần cuối bởi"
 
 #. module: om_account_daily_reports
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_bankbook_report__write_date
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__write_date
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Cập nhật lần cuối"
 
 #. module: om_account_daily_reports
 #: model_terms:ir.ui.view,arch_db:om_account_daily_reports.report_bankbook

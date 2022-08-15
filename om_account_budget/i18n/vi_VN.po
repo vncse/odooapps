@@ -212,7 +212,7 @@ msgstr "Tạo bởi"
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget__create_date
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Thời điểm tạo"
 
 #. module: om_account_budget
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines__currency_id
@@ -279,7 +279,7 @@ msgstr "Có tin nhắn"
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget__id
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: om_account_budget
 #: model:ir.model.fields,help:om_account_budget.field_crossovered_budget__message_needaction
@@ -308,21 +308,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget____last_update
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Sửa lần cuối"
 
 #. module: om_account_budget
 #: model:ir.model.fields,field_description:om_account_budget.field_account_budget_post__write_uid
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget__write_uid
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Cập nhật lần cuối bởi"
 
 #. module: om_account_budget
 #: model:ir.model.fields,field_description:om_account_budget.field_account_budget_post__write_date
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget__write_date
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget_lines__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Cập nhật lần cuối"
 
 #. module: om_account_budget
 #: model:ir.model.fields,field_description:om_account_budget.field_crossovered_budget__message_main_attachment_id

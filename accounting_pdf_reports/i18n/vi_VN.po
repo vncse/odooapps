@@ -1044,7 +1044,7 @@ msgstr "Lọc bút toán"
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_tax
 msgid "Tax"
-msgstr ""
+msgstr "Thuế"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_journal

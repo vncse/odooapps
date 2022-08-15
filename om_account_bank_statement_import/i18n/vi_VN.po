@@ -45,12 +45,12 @@ msgstr ""
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "Cần có hành động"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__active
 msgid "Active"
-msgstr ""
+msgstr "Có hiệu lực"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__activity_ids
@@ -253,7 +253,7 @@ msgstr "Được tạo bởi"
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import__create_date
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Thời điểm tạo"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__currency_id
@@ -342,7 +342,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import__id
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__activity_exception_icon
@@ -484,19 +484,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import____last_update
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Sửa lần cuối"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import__write_uid
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Cập nhật lần cuối bởi"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import__write_date
 #: model:ir.model.fields,field_description:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Cập nhật lần cuối"
 
 #. module: om_account_bank_statement_import
 #: model:ir.model.fields,help:om_account_bank_statement_import.field_account_bank_statement_import_journal_creation__sale_activity_user_id

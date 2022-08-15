@@ -19,37 +19,37 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll_account.hr_contract_form_inherit
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll_account.hr_salary_rule_form_inherit
 msgid "Accounting"
-msgstr ""
+msgstr "Kê toán"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip__move_id
 msgid "Accounting Entry"
-msgstr ""
+msgstr "Bút toán kế toán"
 
 #. module: om_hr_payroll_account
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #, python-format
 msgid "Adjustment Entry"
-msgstr ""
+msgstr "Bút toán điều chỉnh"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_contract__analytic_account_id
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip_line__analytic_account_id
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_salary_rule__analytic_account_id
 msgid "Analytic Account"
-msgstr ""
+msgstr "Tài khoản quản trị"
 
 #. module: om_hr_payroll_account
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll_account.view_hr_payslip_inherit_form
 msgid "Are you sure to delete the related accounting entry ?"
-msgstr ""
+msgstr "Bạn có chắc chắn muốn xóa bút toán kế toán liên quan?"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip_line__account_credit
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_salary_rule__account_credit
 msgid "Credit Account"
-msgstr ""
+msgstr "Tài khoản tín dụng"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip__date
@@ -60,7 +60,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip_line__account_debit
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_salary_rule__account_debit
 msgid "Debit Account"
-msgstr ""
+msgstr "Tài khoản ghi nợ"
 
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_contract
@@ -70,66 +70,66 @@ msgstr "Hợp đồng nhân viên"
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_payslip_employees
 msgid "Generate payslips for all selected employees"
-msgstr ""
+msgstr "Tạo phiếu lương cho tất cả nhân viên được chọn"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,help:om_hr_payroll_account.field_hr_payslip__date
 msgid "Keep empty to use the period of the validation(Payslip) date."
-msgstr ""
+msgstr "Giữ trống để sử dụng khoảng thời gian của ngày xác nhận (Phiếu lương)."
 
 #. module: om_hr_payroll_account
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #, python-format
 msgid "Missing Debit Or Credit Account in Salary Rule"
-msgstr ""
+msgstr "Thiếu Tài khoản ghi nợ hoặc Tài khoản tín dụng trong quy tắc lương"
 
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_payslip
 msgid "Pay Slip"
-msgstr ""
+msgstr "Phiếu trả lương"
 
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_payslip_run
 msgid "Payslip Batches"
-msgstr ""
+msgstr "Phiếu lương batches"
 
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_payslip_line
 msgid "Payslip Line"
-msgstr ""
+msgstr "Phiếu lương line"
 
 #. module: om_hr_payroll_account
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #, python-format
 msgid "Payslip of %s"
-msgstr ""
+msgstr "Phiếu lương của %s"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_contract__journal_id
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip__journal_id
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip_run__journal_id
 msgid "Salary Journal"
-msgstr ""
+msgstr "Bút toán lương"
 
 #. module: om_hr_payroll_account
 #: model:ir.model,name:om_hr_payroll_account.model_hr_salary_rule
 msgid "Salary Rule"
-msgstr ""
+msgstr "Quy tắc lương"
 
 #. module: om_hr_payroll_account
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_payslip_line__account_tax_id
 #: model:ir.model.fields,field_description:om_hr_payroll_account.field_hr_salary_rule__account_tax_id
 msgid "Tax"
-msgstr ""
+msgstr "Thuế"
 
 #. module: om_hr_payroll_account
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #, python-format
 msgid "The Expense Journal \"%s\" has not properly configured the Credit Account!"
-msgstr ""
+msgstr "Bút toán chi phí \"%s\" không được cấu hình đúng Tài khoản tín dụng!"
 
 #. module: om_hr_payroll_account
 #: code:addons/om_hr_payroll_account/models/hr_payroll_account.py:0
 #, python-format
 msgid "The Expense Journal \"%s\" has not properly configured the Debit Account!"
-msgstr ""
+msgstr "Bút toán chi phí \"%s\" không được cấu hình đúng Tài khoản ghi nợ!"
