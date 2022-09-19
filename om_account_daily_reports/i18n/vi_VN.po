@@ -207,7 +207,7 @@ msgstr "Tên hiển thị"
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__date_to
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__date_to
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 #. module: om_account_daily_reports
 #: model_terms:ir.ui.view,arch_db:om_account_daily_reports.report_bankbook
@@ -341,14 +341,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_bankbook_report__sortby
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__sortby
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #. module: om_account_daily_reports
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_bankbook_report__date_from
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_cashbook_report__date_from
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_daybook_report__date_from
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
 #. module: om_account_daily_reports
 #: model:ir.model.fields,field_description:om_account_daily_reports.field_account_bankbook_report__target_move

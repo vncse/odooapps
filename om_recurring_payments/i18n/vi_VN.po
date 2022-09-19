@@ -117,7 +117,7 @@ msgstr "Dự thảo"
 #. module: om_recurring_payments
 #: model:ir.model.fields,field_description:om_recurring_payments.field_recurring_payment__date_end
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 #. module: om_recurring_payments
 #: model:ir.model.fields,field_description:om_recurring_payments.field_account_recurring_template__journal_state

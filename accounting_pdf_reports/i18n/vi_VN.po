@@ -50,7 +50,7 @@ msgstr "<strong>Công ty:</strong>"
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_tax
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_trialbalance
 msgid "<strong>Date from :</strong>"
-msgstr ""
+msgstr "<strong>Từ ngày :</strong>"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_financial
@@ -59,7 +59,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_tax
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_trialbalance
 msgid "<strong>Date to :</strong>"
-msgstr ""
+msgstr "<strong>Đến ngày :</strong>"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_trialbalance
@@ -110,7 +110,7 @@ msgstr ""
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_agedpartnerbalance
 msgid "<strong>Start Date:</strong>"
-msgstr ""
+msgstr "<strong>Ngày bắt đầu:</strong>"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_agedpartnerbalance
@@ -425,23 +425,23 @@ msgstr "Ngày"
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_account_tax_report_wizard__date_from
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_accounting_report__date_from_cmp
 msgid "Date From"
-msgstr ""
+msgstr "Từ ngày"
 
 #. module: accounting_pdf_reports
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_account_tax_report_wizard__date_to
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_accounting_report__date_to_cmp
 msgid "Date To"
-msgstr ""
+msgstr "Đến ngày"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_journal_entries
 msgid "Date:"
-msgstr ""
+msgstr "Ngày:"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.accounting_report_view
 msgid "Dates"
-msgstr ""
+msgstr "Ngày"
 
 #. module: accounting_pdf_reports
 #: model_terms:ir.ui.view,arch_db:accounting_pdf_reports.report_financial
@@ -1014,7 +1014,7 @@ msgstr ""
 #. module: accounting_pdf_reports
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_account_report_general_ledger__sortby
 msgid "Sort by"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #. module: accounting_pdf_reports
 #: model:ir.model.fields,field_description:accounting_pdf_reports.field_account_aged_trial_balance__date_from
@@ -1068,7 +1068,7 @@ msgstr "Báo cáo thuế"
 #. module: accounting_pdf_reports
 #: model:ir.actions.act_window,name:accounting_pdf_reports.action_account_tax_report
 msgid "Tax Reports"
-msgstr "Bao cáo thuế"
+msgstr "Báo cáo thuế"
 
 #. module: accounting_pdf_reports
 #: model:ir.model.fields,help:accounting_pdf_reports.field_accounting_report__label_filter

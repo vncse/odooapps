@@ -115,24 +115,24 @@ msgstr ""
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_contribution_register
 msgid "<strong>Date From:</strong>"
-msgstr ""
+msgstr "<strong>Từ ngày:</strong>"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip_details
 msgid "<strong>Date From</strong>"
-msgstr ""
+msgstr "<strong>Từ ngày</strong>"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_contribution_register
 msgid "<strong>Date To:</strong>"
-msgstr ""
+msgstr "<strong>Đến ngày:</strong>"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip_details
 msgid "<strong>Date To</strong>"
-msgstr ""
+msgstr "<strong>Đến ngày</strong>"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip
@@ -162,7 +162,7 @@ msgstr "<strong>Tên</strong>"
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip_details
 msgid "<strong>Reference</strong>"
-msgstr ""
+msgstr "<strong>Tham chiếu</strong>"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_contribution_register
@@ -232,12 +232,12 @@ msgstr ""
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Add an internal note..."
-msgstr ""
+msgstr "Thêm ghi chú nội bộ .."
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_contract_advantage_template_view_form
 msgid "Advantage Name"
-msgstr ""
+msgstr "Tên chế độ đãi nghộ"
 
 #. module: om_hr_payroll
 #: model:ir.actions.act_window,name:om_hr_payroll.act_children_salary_rules
@@ -253,7 +253,7 @@ msgstr "Phụ cấp"
 #: model:ir.model.fields.selection,name:om_hr_payroll.selection__hr_payslip_line__condition_select__none
 #: model:ir.model.fields.selection,name:om_hr_payroll.selection__hr_salary_rule__condition_select__none
 msgid "Always True"
-msgstr ""
+msgstr "Luôn True"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_input__amount
@@ -280,7 +280,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__appears_on_payslip
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__appears_on_payslip
 msgid "Appears on Payslip"
-msgstr ""
+msgstr "Xuất hiện trong phiếu lương"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_payslip_line__condition_python
@@ -328,14 +328,14 @@ msgstr ""
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Cancel Payslip"
-msgstr ""
+msgstr "Hủy phiếu lương"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__category_id
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__category_id
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_rule_filter
 msgid "Category"
-msgstr "Loại quy tắc lương"
+msgstr "Nhóm quy tắc lương"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_salary_rule_form
@@ -363,7 +363,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:om_hr_payroll.selection__hr_payslip_run__state__close
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_payslip_run_form
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__code
@@ -389,7 +389,7 @@ msgstr "Mã:"
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_filter
 msgid "Companies"
-msgstr ""
+msgstr "Công ty"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contribution_register__company_id
@@ -399,7 +399,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__company_id
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule_category__company_id
 msgid "Company"
-msgstr ""
+msgstr "Công ty"
 
 #. module: om_hr_payroll
 #: model:hr.salary.rule.category,name:om_hr_payroll.COMP
@@ -421,7 +421,7 @@ msgstr ""
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Compute Sheet"
-msgstr ""
+msgstr "Tính toán phiếu lương"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__condition_select
@@ -447,7 +447,7 @@ msgstr "Cấu hình"
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Confirm"
-msgstr ""
+msgstr "Xác nhận"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__contract_id
@@ -461,7 +461,7 @@ msgstr "Hợp đồng"
 #: model:ir.actions.act_window,name:om_hr_payroll.hr_contract_advantage_template_action
 #: model:ir.ui.menu,name:om_hr_payroll.hr_contract_advantage_template_menu_action
 msgid "Contract Advantage Templates"
-msgstr ""
+msgstr "Mẫu chế độ đãi nghộ cho hợp đồng"
 
 #. module: om_hr_payroll
 #: model:ir.model,name:om_hr_payroll.model_hr_contract_type
@@ -493,7 +493,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__register_id
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_line_filter
 msgid "Contribution Register"
-msgstr ""
+msgstr "Ghi nhận đóng góp"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_payslip_lines_contribution_register
@@ -506,7 +506,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_contribution_register_filter
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_contribution_register_tree
 msgid "Contribution Registers"
-msgstr ""
+msgstr "Ghi nhận đóng góp"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__create_uid
@@ -560,14 +560,14 @@ msgstr "DA"
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_run__date_start
 #: model:ir.model.fields,field_description:om_hr_payroll.field_payslip_lines_contribution_register__date_from
 msgid "Date From"
-msgstr ""
+msgstr "Từ ngày"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__date_to
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_run__date_end
 #: model:ir.model.fields,field_description:om_hr_payroll.field_payslip_lines_contribution_register__date_to
 msgid "Date To"
-msgstr ""
+msgstr "Đến ngày"
 
 #. module: om_hr_payroll
 #: model:hr.salary.rule,name:om_hr_payroll.hr_rule_da
@@ -588,7 +588,7 @@ msgstr "Khấu trừ"
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__default_value
 msgid "Default value for this advantage"
-msgstr ""
+msgstr "Giá trị mặc định cho đãi nghộ này"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_contract__schedule_pay
@@ -621,13 +621,13 @@ msgstr "Mô tả"
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Details By Salary Rule Category"
-msgstr ""
+msgstr "Chi tiết theo nhóm quy tắc lương"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__details_by_salary_rule_category
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip_details
 msgid "Details by Salary Rule Category"
-msgstr ""
+msgstr "Chi tiết theo nhóm quy tắc lương"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__display_name
@@ -933,7 +933,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__input_ids
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_salary_rule_form
 msgid "Inputs"
-msgstr ""
+msgstr "Đầu vào"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__note
@@ -1030,12 +1030,12 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__lower_bound
 msgid "Lower Bound"
-msgstr ""
+msgstr "Giới hạn dưới"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_contract_advantage_template__lower_bound
 msgid "Lower bound authorized by the employer for this advantage"
-msgstr ""
+msgstr "Giới hạn dưới được phép bởi nhà tuyển dụng cho đãi nghộ này"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__paid
@@ -1195,7 +1195,7 @@ msgstr ""
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_salary_rule_category_form
 msgid "Notes"
-msgstr ""
+msgstr "Ghi chú"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__message_needaction_counter
@@ -1246,7 +1246,7 @@ msgstr "Trợ cấp khác"
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
 msgid "Other Inputs"
-msgstr ""
+msgstr "Dữ liệu nhập ngoài khác"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_contract__other_allowance
@@ -1257,7 +1257,7 @@ msgstr "Trợ cấp khác"
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payroll_structure__parent_id
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule_category__parent_id
 msgid "Parent"
-msgstr "Cha"
+msgstr "Cấp cha"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__parent_rule_id
@@ -1268,7 +1268,7 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contribution_register__partner_id
 msgid "Partner"
-msgstr ""
+msgstr "Đối tác"
 
 #. module: om_hr_payroll
 #: model:ir.model,name:om_hr_payroll.model_hr_payslip
@@ -1543,13 +1543,13 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__rate
 msgid "Rate (%)"
-msgstr ""
+msgstr "Tỉ lệ (%)"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payroll_structure__code
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__number
 msgid "Reference"
-msgstr ""
+msgstr "Tham chiếu"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_form
@@ -1591,7 +1591,7 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_line__salary_rule_id
 msgid "Rule"
-msgstr ""
+msgstr "Quy tắc"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__message_has_sms_error
@@ -1619,14 +1619,14 @@ msgstr "Quy tắc lương"
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_salary_rule_category_tree
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_salary_rule_category_filter
 msgid "Salary Rule Categories"
-msgstr "Loại quy tắc lương"
+msgstr "Nhóm quy tắc lương"
 
 #. module: om_hr_payroll
 #: model:ir.model,name:om_hr_payroll.model_hr_salary_rule_category
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.report_payslip_details
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_payslip_line_filter
 msgid "Salary Rule Category"
-msgstr "Loại quy tắc lương"
+msgstr "Nhóm quy tắc lương"
 
 #. module: om_hr_payroll
 #: model:ir.model,name:om_hr_payroll.model_hr_rule_input
@@ -1716,7 +1716,7 @@ msgstr "Gửi email"
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_salary_rule__sequence
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.view_hr_contract_type_search
 msgid "Sequence"
-msgstr "Sequence"
+msgstr "Trình tự"
 
 #. module: om_hr_payroll
 #: model_terms:ir.ui.view,arch_db:om_hr_payroll.hr_payslip_run_form
@@ -1739,7 +1739,7 @@ msgstr "States"
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__state
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip_run__state
 msgid "Status"
-msgstr "Status"
+msgstr "Trạng thái"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_payslip__activity_state
@@ -1841,7 +1841,7 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__message_unread
 msgid "Unread Messages"
-msgstr ""
+msgstr "Tin nhắn chưa đọc"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_payslip__message_unread_counter
@@ -1851,12 +1851,12 @@ msgstr ""
 #. module: om_hr_payroll
 #: model:ir.model.fields,field_description:om_hr_payroll.field_hr_contract_advantage_template__upper_bound
 msgid "Upper Bound"
-msgstr ""
+msgstr "Giới hạn trên"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_contract_advantage_template__upper_bound
 msgid "Upper bound authorized by the employer for this advantage"
-msgstr ""
+msgstr "Giới hạn trên được phép bởi nhà tuyển dụng cho đãi nghộ này"
 
 #. module: om_hr_payroll
 #: model:ir.model.fields,help:om_hr_payroll.field_hr_payslip_line__sequence

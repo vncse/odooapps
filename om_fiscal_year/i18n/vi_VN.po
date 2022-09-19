@@ -82,7 +82,7 @@ msgstr "Tên hiển thị"
 #. module: om_fiscal_year
 #: model:ir.model.fields,field_description:om_fiscal_year.field_account_fiscal_year__date_to
 msgid "End Date"
-msgstr ""
+msgstr "Ngày kết thúc"
 
 #. module: om_fiscal_year
 #: model:ir.model.fields,help:om_fiscal_year.field_account_fiscal_year__date_to
@@ -240,7 +240,7 @@ msgstr ""
 #. module: om_fiscal_year
 #: model:ir.model.fields,field_description:om_fiscal_year.field_account_fiscal_year__date_from
 msgid "Start Date"
-msgstr ""
+msgstr "Ngày bắt đầu"
 
 #. module: om_fiscal_year
 #: model:ir.model.fields,help:om_fiscal_year.field_account_fiscal_year__date_from
